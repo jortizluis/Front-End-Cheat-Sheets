@@ -1,5 +1,5 @@
 # Front-End-Cheat-Sheets
-Cheat sheets I find useful as I learn Front End Web Development!
+Cheat sheets and helpful blogs/articles I find useful as I learn Front End Web Development!
 
 ## JavaScript
 - [JS Coding Style](https://javascript.info/article/coding-style/code-style@2x.png)
