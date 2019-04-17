@@ -15,3 +15,4 @@ Cheat sheets and helpful blogs/articles I find useful as I learn Front End Web D
 - (https://github.com/jwasham/computer-science-flash-cards/blob/master/README.md)
 - (https://github.com/jwasham/coding-interview-university)
 - (https://startupnextdoor.com/retaining-computer-science-knowledge/)
+- https://medium.freecodecamp.org/the-tools-i-use-speed-up-my-workflow-and-make-myself-more-productive-fb6f457e242e
