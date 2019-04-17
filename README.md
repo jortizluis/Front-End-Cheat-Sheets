@@ -9,6 +9,7 @@ Cheat sheets and helpful blogs/articles I find useful as I learn Front End Web D
 
 ## CSS
 - [CSS Flexbox Cheatsheet](https://yoksel.github.io/flex-cheatsheet/#display)
+- [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 
 ## Blogs and Pages
 - (https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41)
